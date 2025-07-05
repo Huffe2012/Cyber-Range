@@ -5,9 +5,7 @@
  [Josh Makador's Cyber Range Internship](https://www.linkedin.com/in/joshmadakor/)  provided me hands-on experience, where I worked with key Microsoft Azure security tools including:
 
 Microsoft Defender for Cloud
-
 Azure Sentinel
-
 Tenable Nessus
 
 🔍 What I Learned:
