@@ -11,6 +11,7 @@ Azure Sentinel
 Tenable Nessus
 
 🔍 What I Learned:
+
 Analyzing and interpreting security logs
 
 Writing and executing KQL (Kusto Query Language) queries
