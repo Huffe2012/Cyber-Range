@@ -2,7 +2,7 @@
 
 🌐 Cyber Ranger Internship: Hands-On Azure Security Experience
 
-This repository highlights my hands-on experience during the Cyber Ranger Internship, where I worked with key Microsoft Azure security tools including:
+Josh Makador's Cyber Range Internship provided me hands-on experience, where I worked with key Microsoft Azure security tools including:
 
 Microsoft Defender for Cloud
 
