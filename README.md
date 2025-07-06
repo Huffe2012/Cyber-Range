@@ -7,9 +7,16 @@
 Microsoft Defender for Cloud,
 Azure Sentinel &
 Tenable Nessus
+
+In the Cyber Range we are a community. We all connect to ask questions, assist, share our big wins like landing jobs and get updates on real attacks on Cyber Range.
+
 ![image](https://github.com/user-attachments/assets/4815f51f-f15b-46c3-b671-bd96bf482951)
 
+The classroom is where all of the coursework can be found. In each section I was able to learn different security fundamentals and how they would be applied in a real environment.
+
 ![image](https://github.com/user-attachments/assets/4935b779-5d53-4e4a-8655-8c19b0bce7d2)
+
+
 
 ![image](https://github.com/user-attachments/assets/75aea599-f7c1-4bfb-b2c9-b913ea6b23df)
 
