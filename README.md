@@ -7,6 +7,19 @@
 Microsoft Defender for Cloud,
 Azure Sentinel &
 Tenable Nessus
+![image](https://github.com/user-attachments/assets/4815f51f-f15b-46c3-b671-bd96bf482951)
+
+![image](https://github.com/user-attachments/assets/4935b779-5d53-4e4a-8655-8c19b0bce7d2)
+
+![image](https://github.com/user-attachments/assets/75aea599-f7c1-4bfb-b2c9-b913ea6b23df)
+
+![image](https://github.com/user-attachments/assets/5334b22e-aab1-4e0e-92fd-be1d2d4c60f8)
+
+![image](https://github.com/user-attachments/assets/ab227bb5-5d2f-4b91-bf9c-ca64d7a99781)
+
+![image](https://github.com/user-attachments/assets/0dc343c0-0e25-40fb-a658-69e99bb160d2)
+
+
 
 🔍 What I Learned:
 
