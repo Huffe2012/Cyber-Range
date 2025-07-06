@@ -2,29 +2,27 @@
 
 🌐 Cyber Ranger Internship: Hands-On Azure Security Experience
 
- [Josh Makador's Cyber Range Internship](https://www.linkedin.com/in/joshmadakor/)  provided me hands-on experience, where I worked with key Microsoft Azure security tools including:
+ [Josh Makador's Cyber Range Internship](https://www.linkedin.com/in/joshmadakor/)  
 
-Microsoft Defender for Cloud,
-Azure Sentinel &
-Tenable Nessus
-
-In the Cyber Range we are a community. We all connect to ask questions, assist, share our big wins like landing jobs and get updates on real attacks on Cyber Range.
+The Cyber Range is more than just a training platform. It's a supportive community where we collaborate, ask questions, celebrate wins like job offers, and stay informed on real-world cyber incidents affecting the range.
 
 ![image](https://github.com/user-attachments/assets/4815f51f-f15b-46c3-b671-bd96bf482951)
 
-The classroom is where all of the coursework can be found. In each section I was able to learn different security fundamentals and how they would be applied in a real environment.
+The classroom served as the central hub for all coursework, each section designed like a different mission. Through hands-on labs and real-world scenarios, I explored core security fundamentals and discovered how they’re applied in live environment.
 
 ![image](https://github.com/user-attachments/assets/4935b779-5d53-4e4a-8655-8c19b0bce7d2)
 
-
+Having access to Microsoft Azure enabled me to build virtual machines, interpret security logs, and deepen my practical knowledge of cloud security by working directly with tools like Microsoft Defender and Sentinel.
 
 ![image](https://github.com/user-attachments/assets/75aea599-f7c1-4bfb-b2c9-b913ea6b23df)
-
-![image](https://github.com/user-attachments/assets/5334b22e-aab1-4e0e-92fd-be1d2d4c60f8)
 
 ![image](https://github.com/user-attachments/assets/ab227bb5-5d2f-4b91-bf9c-ca64d7a99781)
 
 ![image](https://github.com/user-attachments/assets/0dc343c0-0e25-40fb-a658-69e99bb160d2)
+
+With full access to Tenable Nessus, I learned to run authenticated and unauthenticated vulnerability scans, and performed compliance assessments aligned with DISA STIG standards to identify misconfigurations and security gaps.
+
+![image](https://github.com/user-attachments/assets/5334b22e-aab1-4e0e-92fd-be1d2d4c60f8)
 
 
 
