@@ -15,7 +15,7 @@ The Cyber Range is more than just a training platform. It's a supportive communi
 
 ![image](https://github.com/user-attachments/assets/75aea599-f7c1-4bfb-b2c9-b913ea6b23df)
 
-![image](https://github.com/user-attachments/assets/ab227bb5-5d2f-4b91-bf9c-ca64d7a99781)
+![image](https://github.com/user-attachments/assets/56c579e0-c1ae-48a3-b124-f773103c22d2)
 
 ![image](https://github.com/user-attachments/assets/0dc343c0-0e25-40fb-a658-69e99bb160d2)
 
