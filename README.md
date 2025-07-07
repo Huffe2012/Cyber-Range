@@ -4,6 +4,8 @@
 
  [Josh Makador's Cyber Range Internship](https://www.linkedin.com/in/joshmadakor/)  
 
+🎥 **[Take a tour of the Cyber Range](https://youtu.be/CnJDGqXP4b0)**
+
 The Cyber Range is more than just a training platform. It's a supportive community where we collaborate, ask questions, celebrate wins like job offers, and stay informed on real-world cyber incidents affecting the range.
 
 - The classroom served as the central hub for all coursework, each section designed like a different mission. Through hands-on labs and real-world scenarios, I explored core security fundamentals and discovered how they’re applied in live environment.
